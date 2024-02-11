@@ -1,4 +1,4 @@
-//pointerarthmetic °³³ä Á¤¸®
+//pointerarthmetic ê°œë… ì •ë¦¬
 
 #include <stdio.h>
 #define BUFFER_SIZE 100
